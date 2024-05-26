@@ -1,4 +1,4 @@
-# nvcore-rust-binding
+# NvCore Library Binding for Rust
 NvCore library binding for Rust
 
 > [!WARNING]
